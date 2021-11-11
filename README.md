@@ -4,6 +4,12 @@
 
 This model has been traiend on the "News Category Dataset's"  headlines. Dataset can be found here: https://www.kaggle.com/rmisra/news-category-dataset
 
+### Model Prediction
+
+![alt_text](https://github.com/mahesh863/next-word-prediction/blob/main/test-image.png)
+
+
+
 ### The Model Architecture
 
 The model has only 4 layers.
